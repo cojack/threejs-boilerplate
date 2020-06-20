@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "es6",
+    "sourceMap": true,
+    "lib": [
+      "es2018",
+      "dom"
+    ],
+    "moduleResolution": "node",
+    "outDir": "./lib",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "importHelpers": true
+  }
+}
