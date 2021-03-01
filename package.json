@@ -14,7 +14,7 @@
   "sideEffects": false,
   "dependencies": {
     "stats.js": "^0.17.0",
-    "three": "^0.117.1"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@types/stats.js": "^0.17.0",
